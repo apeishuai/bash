@@ -1,0 +1,4 @@
+inbox=
+manual=autohotkey HPPrint HPPrint_Tank510
+search=google baidu bai
+simen=smart_200_cpu_gujian soft

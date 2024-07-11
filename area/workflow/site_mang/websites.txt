@@ -1,0 +1,10 @@
+google=https://www.google.com
+HPPrint_Tank510=https://h10032.www1.hp.com/ctg/Manual/c06351949.pdf
+soft=https://mall.industry.siemens.com/mall/zh/cn/Catalog/Products/10335019?tree=CatalogTree
+HPPrint_Manual_Tank510=https://h10032.www1.hp.com/ctg/Manual/c06351949.pdf
+smart_200_cpu_gujian=https://support.industry.siemens.com/cs/document/109765009/s7-200-smart-cpu-%E5%9B%BA%E4%BB%B6%E4%B8%8B%E8%BD%BD?dti=0&lc=zh-CN
+bai=https://www.bbx.com
+autohotkey=https://autohotkey.top/
+baidx=www.baidx.com
+baidu=www.baidu.com
+HPPrint=https://123.hp.com/cn/zh/
